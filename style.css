@@ -1,0 +1,36 @@
+* {
+    margin: 2; 
+    padding: 3;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-between; 
+}
+
+
+
+h1 {
+    color: blueviolet;
+    /* style */
+border: solid; width: fit-content; background-color: bisque;
+margin: 2; padding: 3; 
+}
+
+h2 {
+    /* style */
+border: solid; width:fit-content; background: chartreuse;
+}
+
+h3 {
+    /*style */
+border: dotted; width:fit-content; background-color: cadetblue;
+}
+
+h4  {
+    /* style */
+border: solid; width:fit-content; background-color: cornflowerblue;
+} 
+img {
+    float: right;
+    height: 150px;
+    width: 125px;
+}
